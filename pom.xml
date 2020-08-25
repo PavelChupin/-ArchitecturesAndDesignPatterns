@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>ru.gmail.pavel_chupin</groupId>
+    <artifactId>architectures_and_design_patterns</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+
+    <modules>
+        <module>HomeWorkLesson1</module>
+        <module>HomeWorkLesson2</module>
+        <module>HomeWorkLesson3</module>
+        <module>HomeWorkLesson4</module>
+        <module>HomeWorkLesson5</module>
+        <module>HomeWorkLesson6</module>
+        <module>HomeWorkLesson7</module>
+        <module>HomeWorkLesson8</module>
+        <module>lesson1</module>
+        <module>lesson2</module>
+        <module>lesson3</module>
+        <module>lesson4</module>
+        <module>lesson5</module>
+        <module>lesson6</module>
+        <module>lesson7</module>
+        <module>lesson8</module>
+    </modules>
+
+    <properties>
+        <project.buid.sourceEncoding>UTF-8</project.buid.sourceEncoding>
+        <java.version>11</java.version>
+        <maven.compiler.source>11</maven.compiler.source><!-- версия исходников-->
+        <maven.compiler.target>11</maven.compiler.target><!-- версия с которой можно запустить приложение-->
+    </properties>
+
+    <dependencies>
+
+    </dependencies>
+
+    <build>
+        <plugins>
+
+        </plugins>
+    </build>
+</project>
